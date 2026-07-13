@@ -15,7 +15,7 @@ A custom 75% PCB keyboard with a rotary encoder and 81 keys.
 - Keycaps used in the model: <https://github.com/anhthang/dsa-keycap>
 - Footprint Library I used in Kicad: <https://github.com/daprice/keyswitches.pretty>
 
-#:# How To Build Your Own! <h3>PCB</h3>
+## How To Build Your Own! <h3>PCB</h3>
 
 1. Build your layout with the layout editor I mentioned in the tools I used.
 2. Download the .json file from there.
