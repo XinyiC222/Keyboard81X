@@ -1,12 +1,13 @@
 # keyboard81x
 
-![keyboard81x](imgur.com image replace me!)
+<img width="767" height="363" alt="Screenshot 2026-05-24 at 7 56 27 PM" src="https://github.com/user-attachments/assets/0fef0a65-0493-42bf-b34c-23520da17edc" />
 
-*A short description of the keyboard/project*
+
+*A 81 key keyboard with a 75% layout. Comes with all the function keys and 4 macros.*
 
 * Keyboard Maintainer: [Amelia Chen](https://github.com/Xinyic222)
 * Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Availability: In the repo of Keyboard81x
 
 Make example for this keyboard (after setting up your build environment):
 
