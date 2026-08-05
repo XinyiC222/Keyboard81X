@@ -2,6 +2,14 @@
 
 A custom 75% PCB keyboard with a rotary encoder and 81 keys.
 
+<img width="1052" height="583" alt="Screenshot 2026-08-02 at 5 42 08 PM" src="https://github.com/user-attachments/assets/114b21b6-b3f3-47a6-88ee-0ea8cd1a1162" />
+
+<img width="2026" height="884" alt="image" src="https://github.com/user-attachments/assets/f838d7d8-0ae6-4f7d-bdb9-6d82a02f44a6" />
+
+<img width="2028" height="904" alt="image" src="https://github.com/user-attachments/assets/6aa2b587-a778-4822-b1e9-55775201ddf5" />
+
+
+
 ## Build Notes
 
 - PCB was designed in **KiCad** using a keyswitch plugin.
