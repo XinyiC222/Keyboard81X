@@ -75,7 +75,7 @@ Everything under quantity is the amount they give for the price I payed for or i
 | Rotary Encoder | Volume knob | $0.00 | 1 | Already Owned |
 | PCB | Connects everything | $39.36 | 5 | JLCPCB |
 | 3D Prints | case for all the parts | $0.00 | | Printing Legion |
-| Sub-Total+Tax |  | $37.48 | Aliexpress |
-| Total |  | $76.84 | All Combined |
+| Sub-Total+Tax |  | $37.48 |  | Aliexpress |
+| Total |  | $76.84 |  | All Combined |
 
 
