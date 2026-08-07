@@ -58,7 +58,7 @@ Everything under quantity is the amount they give for the price I payed for or i
 
 
 | Item | Purpose | Price | Quantity | Source |
-| ------------- | ------------- | ------------- | ------------- |
+| --- | --- | --- | --- | --- |
 | Raspberry Pi Pico | Mirco-controller | $1.99 | 1 | [Aliexpress](https://www.aliexpress.com/item/3256807207612469.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&sourceType=570&pdp_npi=6%40dis%21USD%21USD%208.66%21USD%202.39%21%21USD%201.98%21%21%21%402101d3fe17861144495612456e0f9a%2112000040565295947%21ct%21US%217294405090%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D) |
 | 1N5817 DO-41 | USB_C VBUS | $1.79 | x50 | [Aliexpress](https://www.aliexpress.com/item/3256809192784213.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&pdp_npi=6%40dis%21USD%21USD%203.83%21USD%201.92%21%21USD%201.92%21%21%21%402103119c17861142221435145e2191%2112000048926087942%21ct%21US%217294405090%21%211%210%21) |
 | Keycaps | for the Keys | $4.73 | x126 | [Aliexpress](https://www.aliexpress.com/item/3256808108935624.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&pdp_npi=6%40dis%21USD%21USD%204.73%21USD%204.73%21%21USD%204.73%21%21%21%402103119c17861142221435145e2191%2112000044523183095%21ct%21US%217294405090%21%211%210%21) |
