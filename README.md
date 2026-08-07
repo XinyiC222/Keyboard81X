@@ -8,6 +8,9 @@ A custom 75% PCB keyboard with a rotary encoder and 81 keys.
 
 <img width="2028" height="904" alt="image" src="https://github.com/user-attachments/assets/6aa2b587-a778-4822-b1e9-55775201ddf5" />
 
+<img width="1103" height="464" alt="image" src="https://github.com/user-attachments/assets/243d167c-e3c4-4e88-9f09-5a83e62621d8" />
+
+
 
 
 ## Build Notes
