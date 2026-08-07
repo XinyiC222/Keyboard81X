@@ -1,28 +1,77 @@
-# keyboard81x
+# KMK: Clackety Keyboards Powered by Python
+![GitHub](https://img.shields.io/github/license/KMKfw/kmk_firmware)
+![GitHub contributors](https://img.shields.io/github/contributors/KMKfw/kmk_firmware)
+![Lines of code](https://img.shields.io/tokei/lines/github/KMKfw/kmk_firmware)
+![GitHub issues](https://img.shields.io/github/issues-raw/KMKfw/kmk_firmware)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/KMKfw/kmk_firmware)
 
-<img width="767" height="363" alt="Screenshot 2026-05-24 at 7 56 27 PM" src="https://github.com/user-attachments/assets/0fef0a65-0493-42bf-b34c-23520da17edc" />
+KMK is a feature-rich and beginner-friendly firmware for computer keyboards
+written and configured in
+[CircuitPython](https://github.com/adafruit/circuitpython).
 
+## Status
 
-*A 81 key keyboard with a 75% layout. Comes with all the function keys and 4 macros.*
+KMK is no longer actively maintained and on limited life support.
+Issues and pull requests will not be addressed for the time being.
+Volunteers for taking on the project can voice their interest in the
+[Zulip Chat](https://kmkfw.zulipchat.com).
 
-* Keyboard Maintainer: [Amelia Chen](https://github.com/Xinyic222)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: In the repo of Keyboard81x
+## Support
 
-Make example for this keyboard (after setting up your build environment):
+For asynchronous support and chatter about KMK, [join our Zulip
+community](https://kmkfw.zulipchat.com)!
 
-    make keyboard81x:default
+If you ask for help in chat or open a bug report, if possible
+make sure your copy of KMK is up-to-date.
+In particular, swing by the Zulip chat *before* opening a GitHub Issue about
+configuration, documentation, etc. concerns.
 
-Flashing example for this keyboard:
+> The former Matrix and Discord rooms once linked to in this README are no
+> longer officially supported, please do not use them!
 
-    make keyboard81x:default:flash
+## Features
 
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+- Fully configured through a single, easy to understand Python file that lives
+  on a "flash-drive"-esque space on your microcontroller - edit on the go
+  without DFU or other dev tooling available!
+- Single-piece or [two-piece split
+  keyboards](/docs/en/split_keyboards.md)
+  are supported
+- [Chainable
+  keys](/docs/en/keys.md) such as
+  `KC.LWIN(KC.L)` to lock the screen on a Windows PC
+- [Built-in Unicode macros, including
+  emojis](/docs/en/macros.md)
+- [RGB underglow](/docs/en/rgb.md)
+  and [LED
+  backlights](/docs/en/led.md)
+- One key can turn into many more based on [how many times you tap
+  it](/docs/en/tapdance.md)
+- Bluetooth HID and split keyboards. No more wires.
 
-## Bootloader
+## Getting Started
 
-Enter the bootloader in 3 ways:
+KMK requires [CircuitPython](https://circuitpython.org/) version 8.0 or higher.
+Our getting started guide can be found
+[here](/docs/en/Getting_Started.md).
 
-* **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
-* **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
-* **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+## Contributing
+
+Please have a look at the [contributing document](/docs/en/contributing.md), 
+where you can find details about the workflow and code style. If you have 
+specific questions feel free to ask in the [KMK development stream](https://kmkfw.zulipchat.com/#narrow/stream/384078-KMK-development) 
+on Zulip.
+
+## License, Copyright, and Legal
+
+All software in this repository is licensed under the [GNU Public License,
+version 3](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)).
+All documentation and hardware designs are licensed under the [Creative Commons
+Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+license.
+
+**Due to ethical and legal concerns, any works derived from GitHub Copilot or
+similar artificial intelligence tooling are unacceptable for inclusion in any
+first-party KMK repository or other code collection. We further recommend not
+using GitHub Copilot while developing anything KMK-related, regardless of
+intent to submit upstream.**
