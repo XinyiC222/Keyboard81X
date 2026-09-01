@@ -1,4 +1,4 @@
-# Keyboard81X
+# Keyboard81X WORK IN PROGRESS
 
 A custom 75% PCB keyboard with a rotary encoder and 81 keys.
 
@@ -87,4 +87,11 @@ Everything under quantity is the amount you need but the links you buy them come
 | Sub-Total+Tax |  | $37.48 |  | Aliexpress |
 | Total |  | $76.84 |  | All Combined |
 
+## Credits
+<div align="center">
+  
+[![Hack Club macondo](https://img.shields.io/badge/Hack%20Club-🦋Macondo-FFC800?style=for-the-badge&logo=hack-club&logoColor=red)](https://macondo.hackclub.com)
+[![kicad](https://img.shields.io/badge/Designed%20in-Kicad-00578F?style=for-the-badge&logo=Kicad&logoColor=white)](https://kicad.org)
+[![Fusion 360](https://img.shields.io/badge/CAD%20in-Fusion%20360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
+</div>
 
