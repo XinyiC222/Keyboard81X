@@ -48,10 +48,19 @@ A custom 75% PCB keyboard with a rotary encoder and 81 keys.
 2. Download the 3D view of your keyboard from KiCad and upload it (for reference!)
 3. Then make the case around it any way you like. If you are 3D printing remember that prints can shrink so you need to **account for tolerances especially holes**
 4. you can add a plate and any type of mounting you want
-5. If you are adding a plate, the plate generater I included above might be helpful
+5. If you are adding a plate, the plate generator I included above might be helpful
 6. For the plate if you are 3D printing with PLA, having it at 1.5mm thick is usually not strong enough. Set it to **3mm** but leave the area around the stabilizers to be 1.5mm. Note that **prioritizing stability would cause your switches to not clip on correctly**, but will still be tight enough to hold them.
 
 <h3>That's pretty much a good summary of how to build your own keyboard! Thanks for reading it and I hope you learned something new. This is my first big project and definitely my first keyboard build so I don't expect everything to be correct. So if you are building this based off of mine, it's not guaranteed to work. Have fun!!</h3>
+
+## Schematics
+<img width="792" height="481" alt="Screenshot 2026-09-01 at 12 31 02 PM" src="https://github.com/user-attachments/assets/8f5d3953-5c6f-430f-8f92-6b6d758d798c" />
+
+## PCB
+<img width="660" height="281" alt="Screenshot 2026-09-01 at 12 35 40 PM" src="https://github.com/user-attachments/assets/d0dcd9b4-9c31-4ec5-a504-80047ce920a7" />
+<img width="644" height="264" alt="Screenshot 2026-09-01 at 12 37 00 PM" src="https://github.com/user-attachments/assets/c3ac617e-bfe2-41ff-8e7f-800fcbcaa3b2" />
+<img width="682" height="330" alt="Screenshot 2026-09-01 at 12 36 49 PM" src="https://github.com/user-attachments/assets/31f3a926-7fdd-4ad5-854b-5f9e690e0e92" />
+
 
 ## BOM
 Everything under quantity is the amount you need but the links you buy them come in bulk so they give you more than what you need.
@@ -60,7 +69,7 @@ Everything under quantity is the amount you need but the links you buy them come
 | Item | Purpose | Price | Quantity | Source |
 | --- | --- | --- | --- | --- |
 | Raspberry Pi Pico | Mirco-controller | $1.99 | 1 | [Aliexpress](https://www.aliexpress.com/item/3256807207612469.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&sourceType=570&pdp_npi=6%40dis%21USD%21USD%208.66%21USD%202.39%21%21USD%201.98%21%21%21%402101d3fe17861144495612456e0f9a%2112000040565295947%21ct%21US%217294405090%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D) |
-| 1N5817 DO-41 | USB_C VBUS | $1.79 | x2 | [Aliexpress](https://www.aliexpress.com/item/3256809192784213.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&pdp_npi=6%40dis%21USD%21USD%203.83%21USD%201.92%21%21USD%201.92%21%21%21%402103119c17861142221435145e2191%2112000048926087942%21ct%21US%217294405090%21%211%210%21) |
+| 1N5817 DO-41 | USB_C VBUS | $1.79 | x1 | [Aliexpress](https://www.aliexpress.com/item/3256809192784213.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&pdp_npi=6%40dis%21USD%21USD%203.83%21USD%201.92%21%21USD%201.92%21%21%21%402103119c17861142221435145e2191%2112000048926087942%21ct%21US%217294405090%21%211%210%21) |
 | Keycaps | for the Keys | $4.73 | x80 | [Aliexpress](https://www.aliexpress.com/item/3256808108935624.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&pdp_npi=6%40dis%21USD%21USD%204.73%21USD%204.73%21%21USD%204.73%21%21%21%402103119c17861142221435145e2191%2112000044523183095%21ct%21US%217294405090%21%211%210%21) |
 | Plate Mounted Stabilizers | stab for space bar etc | $2.99 | has one 6.25u and two 2u | [Aliexpress](https://www.aliexpress.com/item/3256808467378574.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&sourceType=570&pdp_npi=6%40dis%21USD%21USD%203.32%21USD%202.99%21%21USD%202.47%21%21%21%402101d3fe17861144495612456e0f9a%2112000046108045634%21ct%21US%217294405090%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D) |
 | SMD turtle switches | Reset button | $2.19 | x1 | [Aliexpress](https://www.aliexpress.com/item/3256805092773328.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&sourceType=570&pdp_npi=6%40dis%21USD%21USD%202.25%21USD%202.19%21%21USD%201.81%21%21%21%402101d3fe17861144495612456e0f9a%2112000032466018228%21ct%21US%217294405090%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D) |
@@ -68,7 +77,7 @@ Everything under quantity is the amount you need but the links you buy them come
 | Silent Axis switch | switches | $7.66 | x80 | [Aliexpress](https://www.aliexpress.com/item/3256812192263951.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&pdp_npi=6%40dis%21USD%21USD%2018.05%21USD%207.66%21%21USD%207.66%21%21%21%402103119c17861142221435145e2191%2112000058235272628%21ct%21US%217294405090%21%211%210%21) |
 | Type C Female | PCB for power | $2.24 | x1 | [Aliexpress](https://www.aliexpress.com/item/3256804989275660.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&pdp_npi=6%40dis%21USD%21USD%202.27%21USD%202.26%21%21USD%202.26%21%21%21%402101d3fe17861144455232342e0f9a%2112000031972190842%21ct%21US%217294405090%21%211%210%21) |
 | Solder | soldering | $2.14 | x1 | [Aliexpress](https://www.aliexpress.com/item/3256812349220377.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&pdp_npi=6%40dis%21USD%21USD%204.45%21USD%202.14%21%21USD%202.14%21%21%21%402103119c17861142221435145e2191%2112000058646043574%21ct%21US%217294405090%21%211%210%21) |
-| 5.1k resistors | for ground near usb-c | $2.48 | x1 | [Aliexpress](https://www.aliexpress.com/item/3256811592848349.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&pdp_npi=6%40dis%21USD%21USD%203.01%21USD%202.42%21%21USD%202.42%21%21%21%402103119c17861142221435145e2191%2112000056534710480%21ct%21US%217294405090%21%211%210%21) |
+| 5.1k resistors | for ground near usb-c | $2.48 | x2 | [Aliexpress](https://www.aliexpress.com/item/3256811592848349.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&pdp_npi=6%40dis%21USD%21USD%203.01%21USD%202.42%21%21USD%202.42%21%21%21%402103119c17861142221435145e2191%2112000056534710480%21ct%21US%217294405090%21%211%210%21) |
 | IN4148 DO-31 | matrix | $1.92 | x81 | [Aliexpress](https://www.aliexpress.com/item/3256809322506944.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&sourceType=570&pdp_npi=6%40dis%21USD%21USD%203.81%21USD%201.79%21%21USD%201.22%21%21%21%402101d9ef17861148559937041e10b8%2112000049319061688%21ct%21US%217294405090%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D) |
 | Heat Inserts | To mount plate | $0.00 | 2 | Already Owned |
 | M2.5 x 15mm bolts | Mount plate | $0.00 | 2 | Already Owned |
