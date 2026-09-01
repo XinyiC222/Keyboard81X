@@ -1,6 +1,6 @@
 Item,Purpose,Price,Quantity,Source
 Raspberry Pi Pico,Mirco-controller,$1.99,1,Aliexpress
-1N5817 DO-41,USB_C VBUS,$1.79,x2,Aliexpress
+1N5817 DO-41,USB_C VBUS,$1.79,x1,Aliexpress
 Keycaps,for the Keys,$4.73,x80,Aliexpress
 Plate Mounted Stabilizers,stab for space bar etc,$2.99,has one 6.25u and two 2u,Aliexpress
 SMD turtle switches,Reset button,$2.19,x1,Aliexpress
@@ -8,7 +8,7 @@ Hot Swap Sockets,hot swap keys,$6.20,x80,Aliexpress
 Silent Axis switch,switches,$7.66,x80,Aliexpress
 Type C Female,PCB for power,$2.24,x1,Aliexpress
 Solder,soldering,$2.14,x1,Aliexpress
-5.1k resistors,for ground near usb-c,$2.48,x1,Aliexpress
+5.1k resistors,for ground near usb-c,$2.48,x2,Aliexpress
 IN4148 DO-31,matrix,$1.92,x81,Aliexpress
 Heat Inserts,To mount plate,$0.00,2,Already Owned
 M2.5 x 15mm bolts,Mount plate,$0.00,2,Already Owned
