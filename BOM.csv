@@ -10,10 +10,10 @@ Type C Female,PCB for power,$2.24,x1,Aliexpress,https://www.aliexpress.com/item/
 Solder,soldering,$2.14,x1,Aliexpress,https://www.aliexpress.com/item/3256812349220377.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&pdp_npi=6%40dis%21USD%21USD%204.45%21USD%202.14%21%21USD%202.14%21%21%21%402103119c17861142221435145e2191%2112000058646043574%21ct%21US%217294405090%21%211%210%21
 5.1k resistors,for ground near usb-c,$2.48,x2,Aliexpress,https://www.aliexpress.com/item/3256811592848349.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&pdp_npi=6%40dis%21USD%21USD%203.01%21USD%202.42%21%21USD%202.42%21%21%21%402103119c17861142221435145e2191%2112000056534710480%21ct%21US%217294405090%21%211%210%21
 IN4148 DO-31,matrix,$1.92,x81,Aliexpress,https://www.aliexpress.com/item/3256809322506944.html?spm=a2g0o.cart.0.0.6ac438dadamcUQ&mp=1&sourceType=570&pdp_npi=6%40dis%21USD%21USD%203.81%21USD%201.79%21%21USD%201.22%21%21%21%402101d9ef17861148559937041e10b8%2112000049319061688%21ct%21US%217294405090%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D
-Heat Inserts,To mount plate,$0.00,2,Already Owned
-M2.5 x 15mm bolts,Mount plate,$0.00,2,Already Owned
-Rotary Encoder,Volume knob,$0.00,1,Already Owned
+Heat Inserts,To mount plate,$0.00,2,Already Owned,
+M2.5 x 15mm bolts,Mount plate,$0.00,2,Already Owned,
+Rotary Encoder,Volume knob,$0.00,1,Already Owned,
 PCB,Connects everything,$39.36,1,JLCPCB,https://jlcpcb.com/
-3D Prints,case for all the parts,$0.00,,Printing Legion
-Sub-Total+Tax,,$37.48,,Aliexpress
-Total,,$76.84,,All Combined
+3D Prints,case for all the parts,$0.00,,Printing Legion,
+Sub-Total+Tax,,$37.48,,Aliexpress,
+Total,,$76.84,,All Combined,
