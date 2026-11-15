@@ -1,5 +1,7 @@
 # Keyboard81X WORK IN PROGRESS
 
+bash grab.sh  # fetch runtime deps
+
 A custom 75% PCB keyboard with a rotary encoder and 81 keys.
 
 <img width="1052" height="583" alt="Screenshot 2026-08-02 at 5 42 08 PM" src="https://github.com/user-attachments/assets/114b21b6-b3f3-47a6-88ee-0ea8cd1a1162" />
